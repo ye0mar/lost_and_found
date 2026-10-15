@@ -1,0 +1,6 @@
+{
+  "name": "Lost & Found Management System",
+  "description": "Premium Lost & Found Management System for schools and organizations, engineered for System Administration and Maintenance capstone demonstration with XAMPP, PHP, and MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
